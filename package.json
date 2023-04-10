@@ -34,7 +34,7 @@
     "@web/test-runner": "^0.15.0",
     "cem-plugin-vs-code-custom-data-generator": "^1.3.0",
     "eslint": "^8.28.0",
-    "eslint-plugin-custom-elements": "^0.0.7",
+    "eslint-plugin-custom-elements": "^0.0.8",
     "eslint-plugin-github": "^4.4.1",
     "typescript": "^5.0.0"
   },
