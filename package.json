@@ -28,7 +28,7 @@
     "@github/browserslist-config": "^1.0.0",
     "@github/cem-plugin-readme": "^0.0.1",
     "@github/prettier-config": "^0.0.6",
-    "@open-wc/testing": "^3.1.7",
+    "@open-wc/testing": "^4.0.0",
     "@web/dev-server": "^0.2.0",
     "@web/dev-server-esbuild": "^1.0.0",
     "@web/test-runner": "^0.16.0",
